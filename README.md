@@ -24,7 +24,7 @@
 
 - 📫 Reach me at:
   - GitHub: [@jahongir-dev0](https://github.com/jahongir-dev0)
-  - Telegram: [@jahongirdev](https://t.me/jahongirdev)
+  - Telegram: [@jahongirdev](https://t.me/just_aware)
 
 - 😄 Fun fact: Coding at night hits different 🌙💻
 
