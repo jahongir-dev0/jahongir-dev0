@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on open source projects: [Dasturcha](https://github.com/Diyorbek-tech/Dasturcha) and [BesicEdu](https://github.com/Diyorbek-tech/BesicEdu)
+- 🔭 I’m currently working on open source projects: [Dasturcha](https://dasturcha.uz/) and [BesicEdu](https://basicedu.uz/)
 - 🌱 I’m currently learning advanced Django, React and optimization for performance
 - 👯 I’m looking to collaborate on full stack web development projects
 - 🤔 I’m looking for help with improving frontend animations and UI/UX
