@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on open source projects:  
   [🚀 Dasturcha](https://dasturcha.uz/) — a learning platform for coders  
-  [📚 BesicEdu](https://basicedu.uz/) — educational resource for beginners
+  [📚 BasicEdu](https://basicedu.uz/) — educational resource for beginners
 
 - 🌱 I’m currently diving deeper into:
   - 🔹 Advanced Django optimization
@@ -39,7 +39,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
-![CDN](https://img.shields.io/badge/-CDN-444?style=flat)
+![CDN](https://img.shields.io/badge/-CDN-444?style=flat&logo=cloudflare)
 
 ---
 
@@ -57,9 +57,18 @@
 - 🎓 [**Dasturcha**](https://github.com/Diyorbek-tech/Dasturcha)  
   Platform to learn and practice coding collaboratively.
 
-- 📘 [**BesicEdu**](https://github.com/Diyorbek-tech/BesicEdu)  
+- 📘 [**BasicEdu**](https://github.com/Diyorbek-tech/BesicEdu)  
   A resource-rich educational site for coding newcomers.
 
 ---
 
-> 🧠 *"Always learning. Always building."* 🔥
+## 🧩 Currently Learning
+
+- 🧠 Clean Architecture with Django
+- 🧠 Server-side rendering with React
+- 🧠 CI/CD workflows (GitHub Actions, Vercel, Netlify)
+
+---
+
+> 🧠 *"Always learning. Always building."* 🔥  
+_Thanks for visiting my profile! Let's build something awesome together._
